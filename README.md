@@ -1,2 +1,4 @@
 # insertion_sort
-Just a simple insertion sort
+I just dip a toe in the algorithmic design and having fun soaking in.
+
+It late at night and have a nice day.
